@@ -1,4 +1,3 @@
-- = ptbr =
 # bodia eu sou o neontflame
 - eu tento fazer coisas
 - é basicamente isso
