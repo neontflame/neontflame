@@ -1,9 +1,7 @@
-# bodia eu sou o neontflame
+# ola boa tarde eu sou o neon
 - eu tento fazer coisas
 - é basicamente isso
-- eu to fazendo um mod de fnf porem eu fico apenas moscando aaaaaaaaaaa
 
-# hi im neontflame
+# good afternoon my good fellow im neon
 - i try to do things
 - thats basically it
-- im making an fnf mod however i just keep slacking aaaaaaaaaaaaaaaa
