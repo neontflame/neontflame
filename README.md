@@ -1,7 +1,4 @@
-# ola boa tarde eu sou o neon
-- eu tento fazer coisas
-- é basicamente isso
-
-# good afternoon my good fellow im neon
-- i try to do things
-- thats basically it
+# ola boa tarde meu caro amigo eu sou o neon
+- eu faço COISAS! yeahj
+- a maioria das vezes eu so faço qualquer programaçao ai q vier na telha
+- ...é
