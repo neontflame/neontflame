@@ -3,7 +3,7 @@
 
 # So What's My Deal?
 - expertise in fucking around and finding out
-- 
+- i know a bit of some stuff here and there (mainly haxe/python/php)
 - computer science bachelor pursuer
 
 # Got Any More Deals?
