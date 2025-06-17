@@ -13,4 +13,4 @@ i have a site (its in portuguese - english translation will come in a later time
 [![Neon-Teh-Site](https://neontflame.especulamente.com.br/images/botoes/NEON88x31.png)](https://neontflame.especulamente.com.br)
 
 and a bunch of socials:
-[Bluesky](https://bsky.app/profile/neontflame.especulamente.com.br) | [Twitter](https://twitter.com/NeonThFl) | [Newgrounds](https://neontflame.newgrounds.com) | [Portal Especulamente](https://especulamente.com.br/usuarios/neontflame) | [YouTube](https://youtube.com/@neontflame) | [BitView](https://bitview.net/user/neontflame)
+[Bluesky](https://bsky.app/profile/neontflame.especulamente.com.br) | [Twitter](https://twitter.com/NeonThFl) | [Newgrounds](https://neontflame.newgrounds.com) | [Portal Especulamente](https://especulamente.com.br/usuarios/neontflame) | [YouTube](https://youtube.com/@neontflame) | [Hyun's Dojo](http://www.hyunsdojo.com/profile/?neontflame/) | [BitView](https://bitview.net/user/neontflame)
