@@ -3,8 +3,14 @@
 
 # So What's My Deal?
 - expertise in fucking around and finding out
-- i know a bit of some stuff here and there (mainly haxe/python/php)
+- i know a bit of some stuff here and there, mainly:
+    - Haxe
+    - ActionScript 3
+    - PHP
+    - HTML/CSS
+    - Python (sliiiiiiiiight bit)
 - computer science bachelor pursuer
+- too many side projects to keep track of
 
 # Got Any More Deals?
 
