@@ -13,6 +13,7 @@ i'm just a guy doing Some Stuff on the internet, including Games, Modding games,
     - PHP
     - HTML/CSS
     - Python (sliiiiiiiiight bit)
+    - C# (also a very very slight bit)
 - computer science bachelor pursuer
 - too many side projects to keep track of
 
